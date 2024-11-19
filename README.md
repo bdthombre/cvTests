@@ -11,8 +11,10 @@ https://github.com/bdthombre/cvTests/blob/main/tests/finger_2024_11_18_20_27_50x
 
 ### Pulse Tracking and Plotting with this Repository
 
-Original Video Sampling
+
+#### Original Video Sampling
 ![Plot for Original Video](https://github.com/bdthombre/cvTests/blob/main/tests/results/og_finger_center.png)
 
-Amplified Video Sampling
+
+#### Amplified Video Sampling
 ![Plot for amplified Video](https://github.com/bdthombre/cvTests/blob/main/tests/results/amp_finger_side.png)
