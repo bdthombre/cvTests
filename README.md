@@ -7,6 +7,8 @@ https://github.com/bdthombre/cvTests/blob/main/tests/finger.mp4
 Amplified Video
 https://github.com/bdthombre/cvTests/blob/main/tests/finger_2024_11_18_20_27_50x.mp4
 
+![Original Vs Amplified Video](https://github.com/bdthombre/cvTests/blob/main/tests/results/screenshot.png)
+
 ### Pulse Tracking and Plotting with this Repository
 
 Original Video Sampling
